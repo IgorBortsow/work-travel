@@ -1,0 +1,18 @@
+// Переопределение дефолтных значений переменных Bootstrap 4 и определение своих
+@import "variables";
+@import "_mixins";
+@import "node_modules/aos/src/sass/aos.scss";
+
+@import "my";
+@import "fonts";
+@import "header";
+@import "home";
+@import "book-form";
+@import "about";
+@import "destination";
+@import "service";
+@import "gallery";
+@import "blogs";
+@import "banner";
+@import "footer";
+@import "review";
